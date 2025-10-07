@@ -1,5 +1,5 @@
 https://ctftime.org/event/2798
 
-![alt text](<Screenshot from 2025-07-01 17-22-06.png>)
+![alt text](<Screenshot1.png>)
 
-![alt text](<Screenshot from 2025-07-02 19-56-56.png>)
+![alt text](<Screenshot2.png>)

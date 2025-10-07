@@ -1,6 +1,6 @@
 https://ctftime.org/event/2651
 
-- Interns' Project
+- Intern's Project
 
 ![alt text](image.png)
 
