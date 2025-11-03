@@ -1,5 +1,3 @@
-# Mark everything as vendored (bỏ qua khi tính language)
 * linguist-vendored
 
-# Nhưng đếm các file Python
 *.c linguist-vendored=false

